@@ -12,7 +12,7 @@ const VoiceStudio: React.FC = () => {
   const voices = [
     { name: 'Kore', label: 'Balanced & Clear', gender: 'Female' },
     { name: 'Puck', label: 'Friendly & Casual', gender: 'Male' },
-    { name: 'Charon', label: 'Deep & Authoritative', gender: 'Male' },
+    { name: 'Tristan', label: 'Deep & Authoritative', gender: 'Male' },
     { name: 'Fenrir', label: 'Warm & Natural', gender: 'Female' },
     { name: 'Zephyr', label: 'Soft & Atmospheric', gender: 'Female' },
   ];
