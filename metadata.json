@@ -1,0 +1,8 @@
+{
+  "name": "Levant AI Studio",
+  "description": "A high-performance creative suite powered by Gemini, featuring advanced text generation, AI-driven image creation, and high-fidelity text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
